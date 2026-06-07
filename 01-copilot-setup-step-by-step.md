@@ -19,7 +19,7 @@ Reviews clinical study manuscripts against statistical outputs/TLFs for numerica
 Add the file:
 
 ```text
-checklists/Statistics_QC_Review_Checklists_Companion_v2_with_Oncology_Checklist.docx
+checklists/Statistics_QC_Review_Checklists_Companion.docx
 ```
 
 Name it:
