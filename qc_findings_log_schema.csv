@@ -1,0 +1,20 @@
+Column,Required,Description,Example
+Finding ID,Yes,Unique identifier for the finding.,STAT-QC-001
+Study Type,Yes,Study class used to route checklist logic.,Oncology interventional
+Document,Yes,Document containing the issue.,Manuscript
+Location,Yes,Exact manuscript/table/figure/section location.,"Results, paragraph 2"
+QC Domain,Yes,Main QC category.,Numerical accuracy
+Checklist Item,Yes,Relevant checklist item or module.,Numerical accuracy module
+Displayed Value or Text,Yes,Current manuscript value or wording.,45/60 (76.0%)
+Source Output/TLF Location,Yes,"Exact output table, listing, figure, or source location.","TLF Table 14.2.1, row Response, arm A"
+Source Value,Yes,Value from source output.,45/60
+Recalculated Value,Yes,Agent recomputation where possible.,75.0%
+Difference,Yes,Numerical or textual discrepancy.,Displayed percentage is 1.0 percentage point high
+Difference Type,Yes,Mismatch category.,Percentage recalculation
+Issue,Yes,Short description of the problem.,Percentage does not match numerator/denominator
+Risk,Yes,"Low, Medium, High, or Critical.",Medium
+Recommended Fix,Yes,Specific correction or escalation.,Revise to 45/60 (75.0%) or confirm rounding rule
+Owner,Yes,Likely responsible role.,Statistician / programmer / medical writer
+Status,Yes,Tracking status.,Open
+Verification Status,Yes,Whether evidence/correction has been verified.,Needs source evidence / Verified
+Reviewer Notes,No,Free-text note.,Optional
