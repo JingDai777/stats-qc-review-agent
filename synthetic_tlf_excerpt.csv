@@ -1,0 +1,8 @@
+TLF,Section,Parameter,Drug A,Control,Notes
+Table 14.2.1,Primary endpoint,Efficacy population N,60,60,Randomized efficacy population
+Table 14.2.1,Primary endpoint,"Objective response, n/N (%)",45/60 (75.0%),30/60 (50.0%),Percent to one decimal
+Table 14.2.1,Primary endpoint,P-value,p < 0.001,,Display per SAP rule
+Table 14.2.2,PFS,Hazard ratio (95% CI),"0.82 (0.64, 1.05)",,Cox model stratified by region
+Table 14.2.3,Subgroup: female,ORR difference (95% CI),"18.0% (-2.0%, 38.0%)",,Exploratory; no interaction test
+Table 14.3.1,Safety,Safety population N,61,59,All treated
+Table 14.3.1,Safety,"Any TEAE, n/N (%)",48/61 (78.7%),40/59 (67.8%),Safety population denominator
